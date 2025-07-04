@@ -1,5 +1,5 @@
 # Fronted_Bootcamp_BTD_Mid
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm flook! 👋
 
 ## A Passionate Frontend Developer in the Making
 
